@@ -743,6 +743,14 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s6q2kWsmrv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s6q2kWsmrv P {
+  color: #767676;
+}
 .cid-s6kSHbyGHO {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -763,6 +771,48 @@ section.lazy-placeholder:after {
 }
 .cid-s6kSHbyGHO textarea.form-control {
   min-height: 188px;
+}
+.cid-s6q6OwflrV {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s6q6OwflrV [class^="socicon-"]:before,
+.cid-s6q6OwflrV [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-s6q6OwflrV .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #149dcc;
+}
+.cid-s6q6OwflrV .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-s6q6OwflrV .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-s6q6OwflrV .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-s6q6OwflrV .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-s6q6OwflrV .btn {
+    font-size: 20px !important;
+  }
 }
 .cid-s6kSQZzUS7 {
   padding-top: 90px;
@@ -870,7 +920,7 @@ section.lazy-placeholder:after {
 .cid-s6kTbBkLZ3 {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 .cid-s6kTbBkLZ3 .row-links {
   width: 100%;
